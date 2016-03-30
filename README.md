@@ -6,6 +6,12 @@
 ## Usage
 * __Get artifact__
 
+```gradle
+compile 'io.supercharge:testutil:0.1.0'
+```
+
+## Description
+
 TODO
 
 
